@@ -1,2 +1,2 @@
 Set objShell = CreateObject("WScript.Shell")
-objShell.Run """D:\CodeX.exe""", 0, False
+objShell.Run """D:\HiddenSys\CodeX.exe""", 0, False
